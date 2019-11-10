@@ -1,0 +1,14 @@
+{
+    "name": "handanyingjie/libweibo",
+    "description": "sina weibo sdk",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuyingjie",
+            "email": "handanyingjie@sina.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
